@@ -1,0 +1,3 @@
+## Slots
+
+[HOME](../../README.md)

@@ -1,0 +1,3 @@
+## Synonym
+
+[HOME](../../README.md)

@@ -1,0 +1,3 @@
+## Gomoko
+
+[HOME](../../README.md)

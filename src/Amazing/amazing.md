@@ -1,0 +1,3 @@
+## Amazing
+
+[HOME](../../README.md)
